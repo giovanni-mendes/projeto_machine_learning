@@ -1,4 +1,4 @@
-# projeto_machine_learning
+# Projeto Final Machine Learning
 Projeto Turma 1006 - Machine Learning I
 
 Descrição do Trabalho:
