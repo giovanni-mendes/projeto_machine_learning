@@ -1,6 +1,16 @@
 # Projeto Final Machine Learning
 Projeto Turma 1006 - Machine Learning I
 
+Grupo:
+
+- Giovanni Mendes Lima
+- Darlinne Hubert Palo Soto
+- Henrique Reis Innecco
+- João Paulo Ponte
+- João Pedro Reis Martins
+
+
+
 Descrição do Trabalho:
 
 O objetivo deste projeto é aplicar técnicas de Machine Learning para determinar se o sujeito vai ter ou não avc a partir de uma base de dados fornecida. O conjunto de dados utilizado para este projeto é "Stroke Prediction Dataset", disponível no Kaggle: https://www.kaggle.com/competitions/playground-series-s3e2/data?select=train.csv.
